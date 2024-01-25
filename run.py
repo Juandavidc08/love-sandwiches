@@ -133,6 +133,8 @@ def main():
     
 
 
-
+"""
+This is the call for the main function and will make all the app work
+"""
 print("Welcome to Love Sandwiches Data Automation")
 main()
